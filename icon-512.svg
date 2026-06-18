@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="92" fill="#f97316"/>
+<circle cx="256.0" cy="163.84" r="46.08" fill="white" opacity=".95"/>
+<path d="M256.0 215.04 L348.16 399.36 L256.0 348.16 L163.84 399.36 Z" fill="white" opacity=".95"/>
+<path d="M117.76 307.2 H394.24" stroke="#1d4ed8" stroke-width="28.16" stroke-linecap="round"/>
+<path d="M128.0 256.0 H384.0" stroke="#fff" stroke-width="17.92" stroke-linecap="round" stroke-dasharray="30.72 23.04"/>
+<text x="256.0" y="460.8" text-anchor="middle" font-family="Arial, sans-serif" font-size="48.64" font-weight="700" fill="white">RedeCalc</text>
+</svg>
